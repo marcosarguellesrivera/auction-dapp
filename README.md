@@ -8,6 +8,12 @@ La lógica de negocio de la subasta está implementada en un **smart contract**,
 
 ---
 
+Para acceder a la aplicación, se puede utilizar el siguiente enlace 🔗https://marcosarguellesrivera.github.io/auction-dapp/ 
+
+Se debe tener configurado MetaMask en el navegador en el que se utilice la aplicación
+
+---
+
 ## Características principales
 
 - 🔗 Subastas gestionadas íntegramente por **smart contracts**
